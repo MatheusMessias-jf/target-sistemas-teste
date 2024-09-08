@@ -1,5 +1,7 @@
 # target-sistemas-teste
 Teste técnico para vaga de desenvolvedor na empresa Target Sistemas
+
+As respostas para as questões 1 e 2 estão separadas por arquivos no repositório
 --------------------------------------------------------------------
 
 # Respostas das questões discursivas:
